@@ -86,5 +86,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
+Future Development Plans:
+- Create a web page to provide cryptocurrency exchange informaton
+- Documentation/Tutorial web page to assist users on how to setup and send ethereum 
+- Provide up-to-date news and resources regarding cyrptocurrency to users
 
 
